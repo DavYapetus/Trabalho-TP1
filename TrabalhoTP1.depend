@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1743445502 source:c:\users\davyv\onedrive\documentos\trabalhotp1\main.cpp
+	<iostream>
+
+1747547417 source:c:\users\davyv\onedrive\documentos\trabalhotp1\cpp\dominios\codigo.cpp
+
+1747547431 source:c:\users\davyv\onedrive\documentos\trabalhotp1\cpp\dominios\codigonegociacao.cpp
+	"../../include/dominios/CodigoNegociacao.h"
+
+1747546059 c:\users\davyv\onedrive\documentos\trabalhotp1\include\dominios\codigonegociacao.h
+	<string>
+	<stdexcept>
+	<algorithm>
+
