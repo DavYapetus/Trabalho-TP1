@@ -1,4 +1,5 @@
 #include "../include/testes/dominios/TesteQuantidade.h"
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 const int TesteQuantidade::VALIDO = 100;
 const int TesteQuantidade::VALIDO_MIN = 1;

@@ -6,6 +6,7 @@
 #include "Perfil.h"
 #include "Dinheiro.h"
 
+// Aluno: Davy Viana Guimarães - 211055559
 class Carteira {
 private:
     Codigo codigo;

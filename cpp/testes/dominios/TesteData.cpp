@@ -1,5 +1,7 @@
 #include "../include/testes/dominios/TesteData.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
+
 const std::string TesteData::VALIDA = "20230815";
 const std::string TesteData::INVALIDA_FORMATO = "15/08/2023";
 const std::string TesteData::INVALIDA_BISSEXTO = "20230229";

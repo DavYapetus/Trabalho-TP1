@@ -2,6 +2,7 @@
 #define QUANTIDADE_H
 
 #include <stdexcept>
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 class Quantidade {
 private:

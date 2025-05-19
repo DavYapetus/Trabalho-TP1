@@ -1,6 +1,7 @@
 #include "../../include/entidades/Conta.h"
 #include "../../include/entidades/Carteira.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
 // Implementação do construtor
 Conta::Conta(const CPF& cpf, const Nome& nome, const Senha& senha) 
     : cpf(cpf), nome(nome), senha(senha), saldo(0.0) {}

@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// Aluno: Davy Viana Guimarães - 211055559
+
 // Valores válidos
 const string TesteCarteira::CODIGO_VALIDO = "CART123";
 const string TesteCarteira::NOME_VALIDO = "Minha Carteira";

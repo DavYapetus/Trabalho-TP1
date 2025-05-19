@@ -1,4 +1,5 @@
 #include "../include/testes/dominios/TesteDinheiro.h"
+// Aluno: Ricardo Siqueira Rubens - 232011430
 
 const double TesteDinheiro::VALIDO = 1500.75;
 const double TesteDinheiro::VALIDO_MIN = 0.01;

@@ -1,6 +1,7 @@
 #include "../../include/entidades/Carteira.h"
 #include "../../include/entidades/Ordem.h"
 
+// Aluno: Davy Viana Guimarães - 211055559
 // Implementação do construtor
 Carteira::Carteira(const Codigo& codigo, const Nome& nome, const Perfil& perfil)
     : codigo(codigo), nome(nome), perfil(perfil), saldo(0.0) {}

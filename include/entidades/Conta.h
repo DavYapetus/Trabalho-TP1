@@ -6,6 +6,8 @@
 #include "Senha.h"
 #include "Dinheiro.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
+// Aluno: William Alves Virissimo - 232031307
 class Conta {
 private:
     CPF cpf;

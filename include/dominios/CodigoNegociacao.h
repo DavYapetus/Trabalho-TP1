@@ -5,6 +5,7 @@
 #include <string>
 #include <cctype>
 
+// Aluno: Davy Viana Guimarães - 211055559
 class CodigoNegociacao {
 private:
     std::string valor;

@@ -5,6 +5,8 @@
 #include <string>
 #include <cctype>
 
+// Aluno: William Alves Virissimo - 232031307
+
 class Nome {
 private:
     std::string valor;

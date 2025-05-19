@@ -1,5 +1,7 @@
 #include "../../include/dominios/Perfil.h"
 
+// Aluno: William Alves Virissimo - 232031307
+
 // Implementação do construtor
 Perfil::Perfil(const std::string& valor) {
     setValor(valor);

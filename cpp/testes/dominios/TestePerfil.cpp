@@ -1,5 +1,7 @@
 #include "../include/testes/dominios/TestePerfil.h"
 
+// Aluno: William Alves Virissimo - 232031307
+
 const std::string TestePerfil::VALIDO = "Conservador";
 const std::string TestePerfil::VALIDO2 = "Moderado";
 const std::string TestePerfil::VALIDO3 = "Agressivo";

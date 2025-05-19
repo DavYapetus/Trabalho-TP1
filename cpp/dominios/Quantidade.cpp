@@ -1,4 +1,5 @@
 #include "../../include/dominios/Quantidade.h"
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 // Implementação do construtor
 Quantidade::Quantidade(int valor) {

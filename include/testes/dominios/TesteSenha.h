@@ -3,6 +3,7 @@
 
 #include <string>
 #include "../../dominios/Senha.h"
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 class TesteSenha {
 private:

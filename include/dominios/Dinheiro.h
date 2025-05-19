@@ -3,6 +3,7 @@
 
 #include <stdexcept>
 #include <string>
+// Aluno: Ricardo Siqueira Rubens - 232011430
 
 class Dinheiro {
 private:

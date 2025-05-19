@@ -3,6 +3,7 @@
 
 #include <string>
 #include "../../dominios/Dinheiro.h"
+// Aluno: Ricardo Siqueira Rubens - 232011430
 
 class TesteDinheiro {
 private:

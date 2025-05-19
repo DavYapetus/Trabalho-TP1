@@ -1,4 +1,5 @@
 #include "../include/testes/dominios/TesteSenha.h"
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 const std::string TesteSenha::VALIDA = "A1b#C2";
 const std::string TesteSenha::INVALIDA_CURTA = "A1b#C";

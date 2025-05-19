@@ -4,6 +4,7 @@
 #include <string>
 #include "../../dominios/CodigoNegociacao.h"
 
+// Aluno: Davy Viana Guimarães - 211055559
 class TesteCodigoNegociacao {
 private:
     const static std::string VALIDO;

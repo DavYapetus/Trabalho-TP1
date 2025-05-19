@@ -1,5 +1,6 @@
 #include "../include/testes/dominios/TesteCPF.h"
 
+// Aluno: Davy Viana Guimarães - 211055559
 const std::string TesteCPF::VALIDO = "123.456.789-09";
 const std::string TesteCPF::INVALIDO_FORMATO = "12345678909";
 const std::string TesteCPF::INVALIDO_DIGITO = "123.456.789-00";

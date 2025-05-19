@@ -3,6 +3,7 @@
 
 #include <string>
 #include "../../dominios/Quantidade.h"
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 class TesteQuantidade {
 private:

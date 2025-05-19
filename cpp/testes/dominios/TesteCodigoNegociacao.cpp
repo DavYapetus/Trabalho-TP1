@@ -1,5 +1,6 @@
 #include "../include/testes/dominios/TesteCodigoNegociacao.h"
 
+// Aluno: Davy Viana Guimarães - 211055559
 const std::string TesteCodigoNegociacao::VALIDO = "PETR4 BZ";
 const std::string TesteCodigoNegociacao::INVALIDO_LONGO = "CODIGO MUITO LONGO";
 const std::string TesteCodigoNegociacao::INVALIDO_CARACTERE = "PETR4@BZ";

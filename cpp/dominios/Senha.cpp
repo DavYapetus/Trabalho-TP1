@@ -1,5 +1,6 @@
 #include "../../include/dominios/Senha.h"
 #include <unordered_set>
+// Aluno: Juliano dos Santos da Costa - 232003590
 
 // Implementação do construtor
 Senha::Senha(const std::string& valor) {

@@ -1,5 +1,6 @@
 #include "../../include/dominios/Dinheiro.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
 // Implementação do construtor
 Dinheiro::Dinheiro(double valor) {
     setValor(valor);

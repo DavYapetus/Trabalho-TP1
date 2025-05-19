@@ -4,6 +4,8 @@
 #include <stdexcept>
 #include <string>
 
+// Aluno: William Alves Virissimo - 232031307
+
 class Perfil {
 private:
     std::string valor;

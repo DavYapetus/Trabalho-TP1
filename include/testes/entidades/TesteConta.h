@@ -3,6 +3,8 @@
 
 #include "../../entidades/Conta.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
+// Aluno: William Alves Virissimo - 232031307
 /// @brief Classe que testa a validação da Entidade de Conta.
 
 class TesteConta

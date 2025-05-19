@@ -1,5 +1,6 @@
 #include "../../include/dominios/Data.h"
 
+// Aluno: Ricardo Siqueira Rubens - 232011430
 // Implementação do construtor
 Data::Data(const std::string& valor) {
     setValor(valor);

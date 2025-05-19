@@ -1,7 +1,7 @@
 #include "../include/testes/entidades/TesteConta.h"
 
-// Aluno: Thiago Silva Ribeiro - 202037702
-
+// Aluno: Ricardo Siqueira Rubens - 232011430
+// Aluno: William Alves Virissimo - 232031307
 using namespace std;
 
 // Valores válidos
